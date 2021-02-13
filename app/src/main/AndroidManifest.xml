@@ -9,7 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Assignment3">
-        <activity android:name=".Design5"></activity>
+        <activity android:name=".Design6"></activity>
+        <activity android:name=".Design3" />
+        <activity android:name=".Design2" />
+        <activity android:name=".Design1" />
+        <activity android:name=".Design5" />
         <activity android:name=".Design4" />
         <activity android:name=".MainActivity">
             <intent-filter>
