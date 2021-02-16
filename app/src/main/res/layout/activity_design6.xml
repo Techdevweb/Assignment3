@@ -8,6 +8,20 @@
     android:stretchColumns="3">
 
     <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="Column1"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"/>
+        <Button
+            android:layout_column="1"
+            android:layout_marginLeft="10dp"
+            android:text="Column2"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:id="@+id/column2"/>
+
 
     </TableRow>
 
